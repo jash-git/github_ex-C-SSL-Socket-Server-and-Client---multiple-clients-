@@ -1,0 +1,4 @@
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ClientSSL\ClientSSL\bin\Release\ClientSSL.exe
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ClientSSL\ClientSSL\bin\Release\ClientSSL.pdb
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ClientSSL\ClientSSL\obj\x86\Release\ClientSSL.exe
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ClientSSL\ClientSSL\obj\x86\Release\ClientSSL.pdb

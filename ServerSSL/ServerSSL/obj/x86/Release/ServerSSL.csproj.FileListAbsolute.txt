@@ -1,0 +1,8 @@
+C:\Users\RD\AppData\Local\Temporary Projects\ServerSSL\bin\Release\ServerSSL.exe
+C:\Users\RD\AppData\Local\Temporary Projects\ServerSSL\bin\Release\ServerSSL.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\ServerSSL\obj\x86\Release\ServerSSL.exe
+C:\Users\RD\AppData\Local\Temporary Projects\ServerSSL\obj\x86\Release\ServerSSL.pdb
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ServerSSL\ServerSSL\obj\x86\Release\ServerSSL.exe
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ServerSSL\ServerSSL\obj\x86\Release\ServerSSL.pdb
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ServerSSL\ServerSSL\bin\Release\ServerSSL.exe
+C:\Users\RD\Desktop\github_ex(C# SSL Socket Server and Client - multiple clients)\ServerSSL\ServerSSL\bin\Release\ServerSSL.pdb

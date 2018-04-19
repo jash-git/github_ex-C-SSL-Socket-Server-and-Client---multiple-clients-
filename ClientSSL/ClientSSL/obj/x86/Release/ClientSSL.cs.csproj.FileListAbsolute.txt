@@ -1,0 +1,4 @@
+C:\Users\RD\AppData\Local\Temporary Projects\ClientSSL.cs\bin\Release\ClientSSL.cs.exe
+C:\Users\RD\AppData\Local\Temporary Projects\ClientSSL.cs\bin\Release\ClientSSL.cs.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\ClientSSL.cs\obj\x86\Release\ClientSSL.cs.exe
+C:\Users\RD\AppData\Local\Temporary Projects\ClientSSL.cs\obj\x86\Release\ClientSSL.cs.pdb
